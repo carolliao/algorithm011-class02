@@ -288,7 +288,7 @@ public void levelOrderTraversal1(Node root, List<List<Integer>> result){
 
 ​			不同实现的比较：https://en.wikipedia.org/wiki/Heap_(data_structure)
 
-​			![image-20200703214034208](D:\workspace\github\GeekBang\algorithm011-class02\Week_02\各种堆的复杂度比较.png)
+​			![image-20200703214034208](D:\workspace\github\GeekBang\algorithm011-class02\Week_02\images\各种堆的复杂度比较.png)
 
 ​			时间复杂度：
 
