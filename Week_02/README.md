@@ -288,7 +288,7 @@ public void levelOrderTraversal1(Node root, List<List<Integer>> result){
 
 ​			不同实现的比较：https://en.wikipedia.org/wiki/Heap_(data_structure)
 
-​			![image-20200703214034208](D:\workspace\github\GeekBang\algorithm011-class02\Week_02\images\各种堆的复杂度比较.png)
+​			![image-20200703214034208](\images\各种堆的复杂度比较.png)
 
 ​			时间复杂度：
 
@@ -328,28 +328,28 @@ public void levelOrderTraversal1(Node root, List<List<Integer>> result){
 
 ​				临接表和临接矩阵
 
-​			![image-20200703215950864](D:\workspace\github\GeekBang\algorithm011-class02\Week_02\images\图的实际数据结构.png)
+​			![image-20200703215950864](\images\图的实际数据结构.png)
 
 ​	6-2、图的分类
 
 ​			无向无权图
 
-![image-20200703215950864](D:\workspace\github\GeekBang\algorithm011-class02\Week_02\images\无向无权图.png)
+![image-20200703215950864](\images\无向无权图.png)
 
 ​			无向有权图
 
-![image-20200703220819031](D:\workspace\github\GeekBang\algorithm011-class02\Week_02\images\无向有权图.png)
+![image-20200703220819031](\images\无向有权图.png)
 
 ​			有向无权图
 
-![image-20200703220649915](D:\workspace\github\GeekBang\algorithm011-class02\Week_02\images\有向无权图.png)
+![image-20200703220649915](\images\有向无权图.png)
 
 ​			有向有权图
 
-![image-20200704222224166](D:\workspace\github\GeekBang\algorithm011-class02\Week_02\images\有向有权图.png)
+![image-20200704222224166](\images\有向有权图.png)
 
 6-3、基于图的常见算法
 
-![image-20200703221305319](D:\workspace\github\GeekBang\algorithm011-class02\Week_02\images\深度优先递归写法模板.png)
+![image-20200703221305319](\images\深度优先递归写法模板.png)
 
-![image-20200703221430786](D:\workspace\github\GeekBang\algorithm011-class02\Week_02\images\广度优先递归算法模板.png)
+![image-20200703221430786](\images\广度优先递归算法模板.png)
